@@ -541,9 +541,7 @@ let branches: ListBranchesResponseDataType = {
         url: 'https://api.github.com/repos/octocat/Hello-World/commits/c5b97d5ae6c19d5c5df71a34c7fbeeda2479ccbc'
       },
       protected: true,
-      protection: {
-
-      },
+      protection: {},
       protection_url: 'https://api.github.com/repos/octocat/hello-world/branches/master/protection'
     }
   ]

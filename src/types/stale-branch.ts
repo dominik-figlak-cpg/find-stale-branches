@@ -1,5 +1,5 @@
 export interface StaleBranch {
-    name: string
-    lastCommitAge: number
-    lastCommitAuthor: string
+  name: string
+  lastCommitAge: number
+  lastCommitAuthor: string
 }
